@@ -8,6 +8,41 @@
       "when": 1726143219094,
       "tag": "0000_tough_mystique",
       "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "7",
+      "when": 1726169429801,
+      "tag": "0001_condemned_mac_gargan",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "7",
+      "when": 1726170021210,
+      "tag": "0002_slippery_demogoblin",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "7",
+      "when": 1726174441090,
+      "tag": "0003_optimal_karnak",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "7",
+      "when": 1726174671664,
+      "tag": "0004_optimal_shadowcat",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "7",
+      "when": 1726174702866,
+      "tag": "0005_crazy_nova",
+      "breakpoints": true
     }
   ]
 }
